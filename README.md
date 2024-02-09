@@ -4,19 +4,18 @@ I'm Ikbal from Indonesia, and I do mobile Android and iOS Development. All codin
 
 ### 📫 Contact me:
 
-[![Gmail Badge](https://img.shields.io/badge/-ikbal.gf12@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ikbal.gf12@gmail.com)](mailto:ikbal.gf12@gmail.com)
+[![Gmail Badge](./images/gmail.svg)](mailto:ikbal.gf12@gmail.com)
 
 ### Development Tools
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio Code](./images/vscode.svg)
+![Android Studio](./images/andoirdstudio.svg)
+![Git](./images/git.svg)
+![GitHub](./images/github.svg)
 
 ### Programming and Markup Languages
 
-<!-- ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) -->
-
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
