@@ -1,6 +1,6 @@
 [![banner](./images/banner.png)](https://github.com/ikbalzohr?tab=repositories)
 
-I'm Ikbal from Indonesia, and I do mobile Android and iOS Development. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. I really enjoy learning languages and frameworks like Flutter is used to develop Android and iOS, NextJs to develop websites and other programming languages. I also enjoy wireframing, ui, ux, and design in general.
+I'm Ikbal from Indonesia, and I do mobile Android and iOS development. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. I really enjoy learning languages and frameworks, such as Flutter and React Native, which are used to develop Android and iOS apps, as well as Next.js for developing websites, along with other programming languages. I also enjoy wireframing, UI, UX, and design in general.
 
 ### 📫 Contact me:
 
